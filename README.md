@@ -2,14 +2,10 @@
 
 A modern weather app to check current conditions and forecasts for the next 24 hours or 7 days.
 
----
-
 ## 🧭 Overview
 
 Buddy-Weather is a clean and modular frontend application built with React / Vite that allows users to view weather information for their location or entered city. It supports current day weather and extended views (hourly or 7-day forecast).  
 Style and structure were given special attention through SCSS modules, and date/time formatting is handled with the Luxon library.
-
----
 
 ## 📌 Features
 
@@ -25,8 +21,6 @@ Style and structure were given special attention through SCSS modules, and date/
     -   `deploy.sh`
     -   `package.json` script: `"deploy": "gh-pages -d dist"`
 
----
-
 ## 📁 Project Structure
 
 /public → static assets (weather icons/images)
@@ -39,8 +33,6 @@ Style and structure were given special attention through SCSS modules, and date/
 variables.scss → global SCSS variables
 global.scss → global styling (app wrapper)
 vite.config.js → Vite configuration
-
----
 
 ## 🚀 Getting Started
 
@@ -74,8 +66,6 @@ npm run deploy
 
 This will create a production build (dist/) and deploy it (e.g., to GitHub Pages) via deploy.sh.
 
----
-
 ## 🛠️ Technologies Used
 
 -React.js
@@ -84,8 +74,6 @@ This will create a production build (dist/) and deploy it (e.g., to GitHub Pages
 -Luxon (for date/time formatting)
 -GitHub Pages (for deployment)
 -JavaScript (ES6+)
-
----
 
 ## 📷 Screenshots
 
