@@ -68,12 +68,12 @@ This will create a production build (dist/) and deploy it (e.g., to GitHub Pages
 
 ## 🛠️ Technologies Used
 
--React.js
--Vite
--SCSS / CSS Modules
--Luxon (for date/time formatting)
--GitHub Pages (for deployment)
--JavaScript (ES6+)
+-   React.js
+-   Vite
+-   SCSS / CSS Modules
+-   Luxon (for date/time formatting)
+-   GitHub Pages (for deployment)
+-   JavaScript (ES6+)
 
 ## 📷 Screenshots
 
